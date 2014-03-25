@@ -7,7 +7,7 @@ class Config(object):
         Default configuration of application.
     """
     
-    Debug = True
+    DEBUG = True
 
     # Create dummy secrey key so we can use sessions
     SECRET_KEY = '123456790'
