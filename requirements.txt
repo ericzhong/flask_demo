@@ -1,3 +1,5 @@
 flask
 flask-admin
 flask-script
+flask-sqlalchemy
+flask-login
